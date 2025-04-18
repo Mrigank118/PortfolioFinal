@@ -864,3 +864,13 @@ input {
         text-decoration: none;
         color: white;
     }
+
+
+
+.tshirt-img {
+    height: 550px;       /* You can increase this to 400px or more */
+    width: 100%;         /* Make it fill the column */
+    object-fit: contain; /* Keeps image aspect ratio without cropping */
+    margin-bottom: 10px;
+}
+
